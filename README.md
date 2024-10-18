@@ -1,5 +1,5 @@
 
-# $${\color{green} \textbf{Who \ Am \ I?}}$$
+# $${\color{red} \textbf{Who \ Am \ I?}}$$
 ## Ratnadeep sali
   🌱  I’m currently pursuing DevOps
 
