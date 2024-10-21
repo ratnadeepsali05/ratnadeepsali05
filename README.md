@@ -55,8 +55,7 @@
 <p align="left">
 <a href="https://github.com/ratnadeepsali05/">
 <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ratnadeepsali05&show_icons=true&theme=gruvbox&hide_border=true" />
-</a>
-<p align="right">
+</a> <p align="right">
 <a href="https://github.com/ratnadeepsali05/">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratnadeepsali05&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="suyashphatak23 :: Top Langs" /></a>
 </p>
