@@ -51,6 +51,11 @@
   />
 </picture>
 
+<p align="center">
+<a href="https://github.com/ratnadeepsali05/">
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ratnadeepsali05&show_icons=true&theme=gruvbox&hide_border=true" />
+</a>
+
 
 
 
