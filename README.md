@@ -1,8 +1,7 @@
+ <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
 <h1 align="center">Hi 👋, I'm Ratnadeep sali from Pune</h1>
   <p>🌱  I’m currently pursuing DevOps
-  <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
-
 
 ## Connect with Me:
 
