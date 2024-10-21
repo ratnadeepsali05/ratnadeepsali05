@@ -1,9 +1,7 @@
  <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
-<h1 align="center">Hi 👋, I'm Ratnadeep sali from Pune</h1>
+<h1 >Hi 👋, I'm Ratnadeep sali from Pune</h1>
   <p>🌱  I’m currently pursuing DevOps
-
-## Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratnadeep-sali-59104a30a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ratandeepsali_0512/)
