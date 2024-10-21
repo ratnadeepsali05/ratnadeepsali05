@@ -1,7 +1,7 @@
 
-# $${\color{red} \textbf{Who \ Am \ I?}}$$
-## Ratnadeep sali
+<h1 align="center">Hi 👋, I'm Aman Pathak from India🇮🇳</h1>
   🌱  I’m currently pursuing DevOps
+  <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
 
 ## Connect with Me:
