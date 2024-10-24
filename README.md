@@ -20,14 +20,14 @@
   ### Databases & Monitoring
   <p>
   <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif"  title="Prometheus" alt="Prometheus" height="65" />
   </a>
  <a href="https://www.postgresql.org" target="_blank" >
-    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" />
+    <img src="https://www.postgresql.org/media/img/about/press/elephant.png"  title="Postgresql" alt="Postgresql" height="60" />
   </a>
   </a>
     <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://www.logolynx.com/images/logolynx/cf/cf72126a3551b816d617a06ffb01388b.png" height="60" />
+    <img src="https://www.logolynx.com/images/logolynx/cf/cf72126a3551b816d617a06ffb01388b.png"  title="MongoDB" alt="MongoDB" height="60" />
   </a>
   </p>
 
