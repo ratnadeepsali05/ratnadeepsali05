@@ -1,5 +1,4 @@
-<html>
-<body bgcolor="#00FFFF">
+
 
 <h1 align="center">Hi 👋, I'm Ratnadeep sali from Pune</h1>
   <p>🌱  I’m currently pursuing DevOps
@@ -61,8 +60,7 @@
 <a href="https://github.com/ratnadeepsali05/">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratnadeepsali05&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="suyashphatak23 :: Top Langs" /></a>
 </p>
-</body>
-</html>
+
 
   
 
