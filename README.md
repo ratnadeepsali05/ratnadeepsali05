@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Ratnadeep sali from Pune</h1>
+<h1 tyle="background-color:DodgerBlue;" align="center">Hi 👋, I'm Ratnadeep sali from Pune</h1>
   <p>🌱  I’m currently pursuing DevOps
 
 ## ☎️ Contact me
