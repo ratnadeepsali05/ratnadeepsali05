@@ -5,30 +5,48 @@
 
 ## ☎️ Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratnadeep-sali-59104a30a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ratnadeepsali@gmail.com&su=Subject&body=MessageBody)
+
 </details>
 
-### Tools:
- <p align="center" style="white-space: nowrap;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/>
-  
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" title="AWS" alt="AWS" height="65"/>
-  </a>
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="55"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="60" height="55"/>
-  
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" title="Docker" alt="Docker" height="65"/>
-  </a>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="55" height="55"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="55" height="55"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="55" height="55"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="55" height="55"/>
-</p>
+ <h3 align="center">🚀 DevOps Skills</h3>
+
+<table align="center">
+<tr>
+<td align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40"/><br>Linux
+</td>
+<td align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" width="40"/><br>Ubuntu
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" width="50"/><br>AWS
+</td>
+<td align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50"/><br>Git
+</td>
+<td align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="50"/><br>GitHub
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" width="50"/><br>Docker
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="40"/><br>Kubernetes
+</td>
+<td align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="40"/><br>Jenkins
+</td>
+<td align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" width="40"/><br>Terraform
+</td>
+<td align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" width="40"/><br>Ansible
+</td>
+</tr>
+</table>
 
   ### Databases & Monitoring
   <p>
