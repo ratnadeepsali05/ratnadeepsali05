@@ -57,10 +57,10 @@
     <img src="https://www.postgresql.org/media/img/about/press/elephant.png"  title="Postgresql" alt="Postgresql" height="60" />
   </a>
   </a>
-    <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://www.logolynx.com/images/logolynx/cf/cf72126a3551b816d617a06ffb01388b.png"  title="MongoDB" alt="MongoDB" height="60" />
-  </a>
-  </p>
+   <a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
+       title="MongoDB" alt="MongoDB" width="55" height="55"/>
+</a>
 
 ![devops-demo](https://github.com/user-attachments/assets/772a360f-1235-4bb9-a40e-bae6e144c1fe)
 
