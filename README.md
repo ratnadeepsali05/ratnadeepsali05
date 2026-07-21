@@ -63,7 +63,7 @@
 </a>
 
 
-![devops-demo](https://github.com/user-attachments/assets/772a360f-1235-4bb9-a40e-bae6e144c1fe)
+
 
 
 <picture>
@@ -82,15 +82,15 @@
 </picture>
 <h1 align="center">💻 GitHub Profile Stats</h1>
 
-<p>
-<a href="https://github.com/ratnadeepsali05/">
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ratnadeepsali05&show_icons=true&theme=gruvbox&hide_border=true" />
+<p align="center">
+  <a href="https://github.com/ratnadeepsali05">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ratnadeepsali05&show_icons=true&theme=gruvbox&hide_border=true" />
+  </a>
 
-
-<a href="https://github.com/ratnadeepsali05/">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratnadeepsali05&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="suyashphatak23 :: Top Langs" /></a>
+  <a href="https://github.com/ratnadeepsali05">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratnadeepsali05&layout=compact&langs_count=6&theme=gruvbox&hide_border=true" />
+  </a>
 </p>
----
 
 ## Featured Projects
 
