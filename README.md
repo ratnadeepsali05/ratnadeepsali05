@@ -58,17 +58,7 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-<h1 align="center">💻 GitHub Profile Stats</h1>
 
-<p align="center">
-  <a href="https://github.com/ratnadeepsali05">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ratnadeepsali05&show_icons=true&theme=gruvbox&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/ratnadeepsali05">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratnadeepsali05&layout=compact&langs_count=6&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
 
 ## Featured Projects
 
