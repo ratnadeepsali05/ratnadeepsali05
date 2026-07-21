@@ -62,7 +62,6 @@
        title="MongoDB" alt="MongoDB" width="55" height="55"/>
 </a>
 
-![devops-demo](https://github.com/user-attachments/assets/772a360f-1235-4bb9-a40e-bae6e144c1fe)
 
 
 
