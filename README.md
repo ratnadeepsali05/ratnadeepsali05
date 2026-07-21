@@ -113,7 +113,9 @@ A Netflix-inspired application with movie browsing and streaming features.
   - Modern, responsive design
 
 ---
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ratnadeepsali05&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
+<p align="center"> ⭐ <b>If you like my work, consider starring my repositories!</b> </p>
 <!---
 ratnadeep-06/ratnadeep-06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
