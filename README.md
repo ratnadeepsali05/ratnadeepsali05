@@ -1,6 +1,6 @@
 <h1 tyle="background-color:DodgerBlue;" align="center">Hi 👋, I'm Ratnadeep sali from Pune</h1>
   <p>🌱Motivated BCA graduate and aspiring DevOps Engineer with hands-on knowledge of Git, Docker, Kubernetes, Jenkins, Terraform, Ansible, and AWS. Seeking an opportunity to contribute to infrastructure automation, pipeline management, and cloud provisioning in a collaborative and fast paced environment. .”
----
+
 
 ## 🚀 About Me
 
