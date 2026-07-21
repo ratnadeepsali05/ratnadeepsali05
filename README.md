@@ -1,7 +1,7 @@
 
 
 <h1 tyle="background-color:DodgerBlue;" align="center">Hi 👋, I'm Ratnadeep sali from Pune</h1>
-  <p>🌱 “I’m a DevOps Engineer experienced in CI/CD, cloud infrastructure on AWS, and containerization using Docker and Kubernetes, with a strong focus on automation and reliability.”
+  <p>🌱Motivated BCA graduate and aspiring DevOps Engineer with hands-on knowledge of Git, Docker, Kubernetes, Jenkins, Terraform, Ansible, and AWS. Seeking an opportunity to contribute to infrastructure automation, pipeline management, and cloud provisioning in a collaborative and fast paced environment. .”
 
 ## ☎️ Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratnadeep-sali-59104a30a/)
